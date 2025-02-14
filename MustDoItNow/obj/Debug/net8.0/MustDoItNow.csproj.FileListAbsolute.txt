@@ -12,3 +12,4 @@ D:\PhuCuongLe\DataStructure&Algorithm2025\MustDoItNow\obj\Debug\net8.0\refint\Mu
 D:\PhuCuongLe\DataStructure&Algorithm2025\MustDoItNow\obj\Debug\net8.0\MustDoItNow.pdb
 D:\PhuCuongLe\DataStructure&Algorithm2025\MustDoItNow\obj\Debug\net8.0\MustDoItNow.genruntimeconfig.cache
 D:\PhuCuongLe\DataStructure&Algorithm2025\MustDoItNow\obj\Debug\net8.0\ref\MustDoItNow.dll
+D:\PhuCuongLe\DataStructure&Algorithm2025\MustDoItNow\obj\Debug\net8.0\MustDoItNow.sourcelink.json

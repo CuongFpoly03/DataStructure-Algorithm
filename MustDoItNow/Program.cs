@@ -1,12 +1,11 @@
 ﻿
-using MustDoItNow.Application.HashSet;
+using MustDoItNow.Application.Array;
 
 class Program {
     static void Main() {
-       SortedSet sortedSet = new SortedSet();
-       sortedSet.AddSortedSet(2);
-       sortedSet.AddSortedSet(1);
-       sortedSet.AddSortedSet(3);
-       sortedSet.PrintSortedSet();
+      Example example = new Example();
+      example.AddArray(6);
+      example.PrintArray();
+
     }
 }

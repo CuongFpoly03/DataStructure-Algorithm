@@ -3,7 +3,6 @@ namespace MustDoItNow.Application.Dictionary
     public class SortedDictionary
     {
         // Khi nào sử dụng:
-
         // Khi cần dữ liệu có thứ tự theo khóa.
         // Khi cần truy xuất nhanh (O(log n)).
         private SortedDictionary<string, int> _sortedDictionary;
