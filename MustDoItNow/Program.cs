@@ -1,11 +1,13 @@
-﻿
-using MustDoItNow.Advanced.Array_String;
+﻿using MustDoItNow.Advanced.Hashmap;
 
 class Program
 {
   static void Main()
   {
-    b6 b = new b6();
-    b.MostFrequent(new int[] {2, 10, 10, 2, 10, 10, 10 });
+    b2 b2 = new b2();
+    string one = "lephucuongg";
+    string two = "ellephucuong";
+    bool result = b2.CanconStruct(one, two);
+    Console.WriteLine($"result: {result}");
   }
 }
